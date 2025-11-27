@@ -1,0 +1,191 @@
+*{
+    
+        margin: auto;
+}
+.conteiner{
+    
+    height: 475px;
+  background-color: rgba(48,48,48,1)  
+}
+#frase1{
+    font-weight: 500;
+    font-style: bold;
+    width: 1024px;
+    height: 72px;
+    padding-top: 206px;
+    margin-left: 62px;
+    
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -2.5px;
+    color: rgba(255, 255, 255, 1)
+}
+#frase2{
+    font-weight: 500;
+    font-style: inter;
+    margin-top: 28px;
+    width: 1024px;
+    height: 28px;
+    margin-left: 62px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    color: rgba(255,255,255,1 )
+    
+
+   
+}
+
+    
+.conteiner2{
+    background-color: #F2F2F2;
+    
+    height: 229px
+}
+#fras1{
+    margin-left: 40px;
+    width: 292px;
+    height: 66.18px;
+    line-height: 28px;
+    font-weight: 300;
+    font-size: 40px;
+    padding-top: 54px;
+    position: absolute;
+    color:  rgba(0, 0, 0, 1)
+     
+}
+#fras2{
+    margin-left: 489px;
+    height: 67px;
+    width: 354px;
+     line-height: 28px;
+    font-weight: 300;
+    font-size: 40px;
+    
+    padding-top: 54px;
+    position: absolute;
+    color:  rgba(0, 0, 0, 1)
+}
+#fras3{
+    margin-left: 1000px;
+    height: 88px;
+    width: 361px;
+   line-height: 28px;
+    font-weight: 300;
+    font-size: 40px;
+    padding-top: 54px;
+    position: absolute;
+    color:  rgba(0, 0, 0, 1)
+}
+  
+#arquiteto{
+    padding-top: 161px;
+    font-weight: 500;
+    margin-top: 300px;
+    margin-left: 77px;
+    width: 735px;
+    height: 161px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    
+}
+#texto{
+    font-weight: 300;
+    margin-left: 77px;
+    height: 161px;
+    width: 735px;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+}
+#fotoarq{
+    width: 510px;
+    height: 605px;
+    padding-left: 876px;
+    margin-top: -500px;
+    
+}
+
+.ultimo{
+    
+    
+    height: 638px;
+    margin-top: 200px;
+    background-color: rgba(48,48,48,1)
+    
+    
+}
+#ultimo1{
+    font-weight: 700;
+   padding-top: 80px;
+    text-align: center;
+    width: 944px;
+    height: 48px;
+    margin-left: 248px;
+    color: rgba(255,255,255,1 )
+    
+}
+#Nome{
+    font-size: 30px;
+     background-color:  rgb(245, 245, 249);
+    border-radius: 20px;
+    border-radius: 20px;
+    border-radius: 20px;
+    margin-left: 466px;
+    margin-top: 40px;
+    width: 508px;
+    height: 72px
+    
+    
+    
+    
+}
+#Email{
+    font-size: 30px;
+    background-color: rgb(242, 242, 245);
+    border-radius: 20px;
+    margin-left: 466px;
+    margin-top: 40px;
+    width: 508px;
+    height: 72px;
+      
+}
+::placeholder {
+    height: 30px;
+    font-style: bold;
+    opacity: 0.7;
+    width: 70px;
+    padding-left: 20px;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.3)
+  
+  
+  
+}
+
+#sub{
+    background-color:rgba(192, 114, 18, 1) ;
+    font-weight: 700;
+    font-size: 30px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 577px;
+    margin-top: 60px;
+    width: 286px;
+    height: 74px;
+    color: rgba(255, 255, 255, 1)
+    
+    
+    
+   
+    
+}
+#sub:hover{
+    box-shadow: 4px 4px 4px 4px rgba(190, 186, 186, 0.25);
+    background-color: rgba(255, 140, 0, 1)
+    
+}
+
+#mensagem{
+    font-size: 30px;
+   margin-left: 550px;
+}
